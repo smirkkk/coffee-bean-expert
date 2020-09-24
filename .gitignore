@@ -1,0 +1,6 @@
+*pyc
+env/
+csv_storage/
+secret.py
+.idea/
+.vscode
